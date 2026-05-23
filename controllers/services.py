@@ -7,8 +7,7 @@ Data access is fully delegated to the DAO layer (controllers/dao.py).
 from __future__ import annotations
 
 import sys
-from datetime import date
-from dateutil.relativedelta import relativedelta
+from datetime import date, timedelta
 from pathlib import Path
 from typing import List, Optional
 
@@ -140,7 +139,7 @@ class InvoiceService:
     def create(patient_id: int, due_date: str = "") -> Invoice:
         try:
             if not due_date.strip():
-                due_date = (date.today() + relativedelta(months=1)).isoformat()
+                due_date = (date.today() + timedelta(days=30)).isoformat()
             invoice = Invoice(
                 patient_id=patient_id,
                 due_date=due_date.strip() or None,
@@ -245,4 +244,3 @@ class TariffService:
     @staticmethod
     def get_sections() -> List[dict]:
         return TariffDAO.get_sections()
-

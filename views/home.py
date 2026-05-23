@@ -32,19 +32,18 @@ def home_page() -> None:
     revenue            = sum(i.total for i in paid_invoices)
     outstanding        = sum(i.total for i in open_invoices)
 
-    # each tuple: (label, value, icon, quasar-color)
     stats = [
-        ("Patients",          str(total_patients),            "people",                   "blue"),
-        ("Open Invoices",     str(len(open_invoices)),        "hourglass_empty",          "orange"),
-        ("Paid Invoices",     str(len(paid_invoices)),        "check_circle",             "positive"),
-        ("Cancelled",         str(len(cancelled_invoices)),   "cancel",                   "negative"),
-        ("Revenue (CHF)",     f"{revenue:,.2f}",              "payments",                 "positive"),
-        ("Outstanding (CHF)", f"{outstanding:,.2f}",          "account_balance_wallet",   "warning"),
+        ("Patients",          str(total_patients),            "people",                   "blue",     "/patients"),
+        ("Open Invoices",     str(len(open_invoices)),        "hourglass_empty",          "orange",   "/invoices?status=open"),
+        ("Paid Invoices",     str(len(paid_invoices)),        "check_circle",             "positive", "/invoices?status=paid"),
+        ("Cancelled",         str(len(cancelled_invoices)),   "cancel",                   "negative", "/invoices?status=cancelled"),
+        ("Revenue (CHF)",     f"{revenue:,.2f}",              "payments",                 "positive", "/invoices?status=paid"),
+        ("Outstanding (CHF)", f"{outstanding:,.2f}",          "account_balance_wallet",   "warning",  "/invoices?status=open"),
     ]
 
     with ui.row().classes("gap-4 flex-wrap w-full mb-8"):
-        for label, value, icon, color in stats:
-            with ui.card().classes("flex-1 min-w-40 shadow-sm"):
+        for label, value, icon, color, dest in stats:
+            with ui.card().classes("flex-1 min-w-40 shadow-sm cursor-pointer hover:shadow-md transition-shadow").on("click", lambda d=dest: ui.navigate.to(d)):
                 with ui.row().classes("items-center gap-3 p-1"):
                     ui.icon(icon, size="2rem").props(f"color={color}")
                     with ui.column().classes("gap-0"):
@@ -89,7 +88,12 @@ def home_page() -> None:
             }
             for inv in sorted(open_invoices, key=lambda i: i.id, reverse=True)[:10]
         ]
-        tbl = ui.table(columns=columns, rows=rows, row_key="id").classes("w-full")
+        tbl = ui.table(columns=columns, rows=rows, row_key="id").classes("w-full cursor-pointer")
+        tbl.on(
+            "row-click",
+            lambda e: ui.navigate.to(f"/invoices/{e.args['id']}"),
+            js_handler="(evt, row) => emit({id: row.id})",
+        )
         tbl.add_slot("body-cell-status", """
             <q-td :props="props">
                 <q-badge color="orange">{{ props.value }}</q-badge>

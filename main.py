@@ -29,7 +29,7 @@ create_db_and_tables()
 
 
 def main():
-    ui.run(title="Patient Billing", port=8090, reload=True)
+    ui.run(title="Patient Billing", port=8790, reload=True)
 
 
 if __name__ in {"__main__", "__mp_main__"}:

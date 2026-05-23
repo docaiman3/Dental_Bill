@@ -14,12 +14,12 @@ def invoice_card(inv, refresh_cb) -> None:
     color = STATUS_COLOR.get(inv.status, "gray")
     with ui.card().classes("w-full"):
         with ui.row().classes("items-center justify-between w-full"):
-            with ui.column():
+            with ui.column().classes("cursor-pointer").on("click", lambda inv_id=inv.id: ui.navigate.to(f"/invoices/{inv_id}")):
                 patient_name = (
                     f"{inv.patient.first_name} {inv.patient.last_name}"
                     if inv.patient else "Unknown"
                 )
-                ui.label(f"Invoice {inv.id}  –  {patient_name}").classes("font-bold text-lg")
+                ui.label(f"Invoice {inv.id}  –  {patient_name}").classes("font-bold text-lg hover:text-primary")
                 ui.label(f"Date: {inv.invoice_date}   Due: {inv.due_date or '—'}").classes("text-sm text-gray-500")
 
             with ui.row().classes("items-center gap-3"):

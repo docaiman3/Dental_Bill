@@ -1,24 +1,24 @@
 """
 View – Invoices page.
 """
-from datetime import date
-
-from dateutil.relativedelta import relativedelta
+from datetime import date, timedelta
 from nicegui import ui
 
 from controllers.services import InvoiceService, PatientService
 from views.patients import invoice_card
 from views.shared import nav, notify_error, notify_ok, validate_date, normalise_date
 
-_DEFAULT_DUE = lambda: (date.today() + relativedelta(months=1)).isoformat()
+_DEFAULT_DUE = lambda: (date.today() + timedelta(days=30)).isoformat()
 
 @ui.page("/invoices")
-def invoices_page(patient_id: int = None) -> None:
+def invoices_page(patient_id: int = None, status: str = None) -> None:
     nav()
 
     if patient_id:
         patient = PatientService.get_by_id(patient_id)
         title = f"Invoices – {patient.first_name} {patient.last_name}" if patient else "Invoices"
+    elif status:
+        title = f"{status.capitalize()} Invoices"
     else:
         title = "All Invoices"
 
@@ -93,6 +93,8 @@ def invoices_page(patient_id: int = None) -> None:
             if patient_id
             else InvoiceService.get_all()
         )
+        if status:
+            invoices = [i for i in invoices if i.status == status]
         with inv_container:
             if not invoices:
                 ui.label("No invoices yet.").classes("text-gray-400")
@@ -102,3 +104,22 @@ def invoices_page(patient_id: int = None) -> None:
 
     refresh_invoices()
 
+
+@ui.page("/invoices/{inv_id}")
+def invoice_detail_page(inv_id: int) -> None:
+    nav()
+
+    inv = InvoiceService.get_by_id(inv_id)
+    if not inv:
+        ui.label(f"Invoice #{inv_id} not found.").classes("text-red-500 text-xl")
+        return
+
+    with ui.row().classes("items-center gap-3 mb-4"):
+        ui.button(icon="arrow_back", on_click=lambda: ui.navigate.back()).props("flat dense")
+        ui.label(f"Invoice #{inv.id}").classes("text-2xl font-bold")
+
+    def refresh():
+        ui.navigate.reload()
+
+    from views.patients import invoice_card
+    invoice_card(inv, refresh)
