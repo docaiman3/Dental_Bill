@@ -1,0 +1,2306 @@
+[
+  {
+    "ziffer": "4.0000",
+    "uvmv_iv": 73.0,
+    "pp_min": 62.2,
+    "pp_max": 84.2,
+    "pp_raw": "62.2-84.2",
+    "leistung": "Befundaufnahme oder Zweitmeinung Befundaufnahme beim Recallpatienten"
+  },
+  {
+    "ziffer": "4.0010",
+    "uvmv_iv": 488.0,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.0020",
+    "uvmv_iv": 33.0,
+    "pp_min": 28.1,
+    "pp_max": 38.1,
+    "pp_raw": "28.1-38.1",
+    "leistung": "Kurzbefundaufnahme beim Notfallpatienten"
+  },
+  {
+    "ziffer": "4.0030",
+    "uvmv_iv": 34.9,
+    "pp_min": 29.7,
+    "pp_max": 40.1,
+    "pp_raw": "29.7-40.1",
+    "leistung": "Kurzbefundaufnahme bei DH/PA-Behandlung"
+  },
+  {
+    "ziffer": "4.0040",
+    "uvmv_iv": 146.4,
+    "pp_min": 124.4,
+    "pp_max": 168.4,
+    "pp_raw": "124.4-168.4",
+    "leistung": "Befundaufnahme nachts"
+  },
+  {
+    "ziffer": "4.0050",
+    "uvmv_iv": 122.0,
+    "pp_min": 103.7,
+    "pp_max": 140.3,
+    "pp_raw": "103.7-140.3",
+    "leistung": "Befundaufnahme Sonn-und Feiertage Triage in der Schule"
+  },
+  {
+    "ziffer": "4.0060",
+    "uvmv_iv": 80.0,
+    "pp_min": 68.2,
+    "pp_max": 92.2,
+    "pp_raw": "68.2-92.2",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.0070",
+    "uvmv_iv": 90.6,
+    "pp_min": 77.0,
+    "pp_max": 104.2,
+    "pp_raw": "77-104.2",
+    "leistung": "Triage in der Praxis"
+  },
+  {
+    "ziffer": "4.0090",
+    "uvmv_iv": 48.0,
+    "pp_min": 41.5,
+    "pp_max": 56.1,
+    "pp_raw": "41.5-56.1",
+    "leistung": "Befundaufnahme beim Schüler"
+  },
+  {
+    "ziffer": "4.0100",
+    "uvmv_iv": 33.0,
+    "pp_min": 28.1,
+    "pp_max": 38.1,
+    "pp_raw": "28.1-38.1",
+    "leistung": "Kurzbefundaufnahme beim Schüler"
+  },
+  {
+    "ziffer": "4.0110",
+    "uvmv_iv": 52.0,
+    "pp_min": 44.5,
+    "pp_max": 60.1,
+    "pp_raw": "44.5-60.1",
+    "leistung": "Instruktion und Aufklārung"
+  },
+  {
+    "ziffer": "4.0120",
+    "uvmv_iv": 73.2,
+    "pp_min": 62.2,
+    "pp_max": 84.2,
+    "pp_raw": "62.2-84.2",
+    "leistung": "Auskunf/Besprechung/Telefonat"
+  },
+  {
+    "ziffer": "4.0130",
+    "uvmv_iv": 73.0,
+    "pp_min": 62.2,
+    "pp_max": 84.2,
+    "pp_raw": "62.2-84.2",
+    "leistung": "Versäumte Sitzung Zahnarzt, pro 15 Min."
+  },
+  {
+    "ziffer": "4.0140",
+    "uvmv_iv": 31.4,
+    "pp_min": 26.7,
+    "pp_max": 36.1,
+    "pp_raw": "26.7-36.1",
+    "leistung": "Versäumte Sitzung DH, pro 15 Min."
+  },
+  {
+    "ziffer": "4.0145",
+    "uvmv_iv": 24.4,
+    "pp_min": 20.7,
+    "pp_max": 28.1,
+    "pp_raw": "20.7-28.1",
+    "leistung": "Versäumte Sitzung PA, pro 15 Min."
+  },
+  {
+    "ziffer": "4.0150",
+    "uvmv_iv": 24.4,
+    "pp_min": 20.7,
+    "pp_max": 28.1,
+    "pp_raw": "20.7-28.1",
+    "leistung": "Zuschlag auswärts"
+  },
+  {
+    "ziffer": "4.0160",
+    "uvmv_iv": 33.0,
+    "pp_min": 28.1,
+    "pp_max": 38.1,
+    "pp_raw": "28.1-38.1",
+    "leistung": "Zuschlag auswärts nachts"
+  },
+  {
+    "ziffer": "4.0170",
+    "uvmv_iv": null,
+    "pp_min": 16.3,
+    "pp_max": 22.1,
+    "pp_raw": "16.3-22.1",
+    "leistung": "Zuschlag auswärts dringlich"
+  },
+  {
+    "ziffer": "4.0180",
+    "uvmv_iv": 41.8,
+    "pp_min": 35.5,
+    "pp_max": 48.1,
+    "pp_raw": "35.5-48.1",
+    "leistung": "Zuschlag auswärts Sonn-und Feiertag"
+  },
+  {
+    "ziffer": "4.0190",
+    "uvmv_iv": 83.7,
+    "pp_min": 71.1,
+    "pp_max": 96.3,
+    "pp_raw": "71.1-96.3",
+    "leistung": "Wartezeit Spital/Heim, pro 15 Min."
+  },
+  {
+    "ziffer": "4.0200",
+    "uvmv_iv": 29.6,
+    "pp_min": 25.2,
+    "pp_max": 34.0,
+    "pp_raw": "25.2-34",
+    "leistung": "Spital-/Heimbesuch bei laufender Behandlung"
+  },
+  {
+    "ziffer": "4.0240",
+    "uvmv_iv": 0.0,
+    "pp_min": 0.0,
+    "pp_max": 0.0,
+    "pp_raw": "0-0",
+    "leistung": "Behandlung ohne Verrechnung"
+  },
+  {
+    "ziffer": "4.0250",
+    "uvmv_iv": 36.6,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42.1",
+    "leistung": "Honorierung nach Zeitaufwand, pro 5 Min."
+  },
+  {
+    "ziffer": "4.0252",
+    "uvmv_iv": 36.6,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42.1",
+    "leistung": "Fallbezogene Behandlungs-/Kostenplanung"
+  },
+  {
+    "ziffer": "4.0260",
+    "uvmv_iv": 188.3,
+    "pp_min": 160.1,
+    "pp_max": 216.5,
+    "pp_raw": "160.1-216.5",
+    "leistung": "Konsilium"
+  },
+  {
+    "ziffer": "4.0270",
+    "uvmv_iv": 73.2,
+    "pp_min": 62.2,
+    "pp_max": null,
+    "pp_raw": "62.2-84.2.",
+    "leistung": "Konsilium Behandler Grundtaxe für Arbeitsplatzdesinfektion"
+  },
+  {
+    "ziffer": "4.0300",
+    "uvmv_iv": 13.0,
+    "pp_min": 11.8,
+    "pp_max": 16.0,
+    "pp_raw": "11.8-16",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.0350",
+    "uvmv_iv": 3.5,
+    "pp_min": 3.0,
+    "pp_max": 4.0,
+    "pp_raw": "3-4",
+    "leistung": "Wegentschädiqung, pro km"
+  },
+  {
+    "ziffer": "4.0360",
+    "uvmv_iv": 7.0,
+    "pp_min": 6.0,
+    "pp_max": 8.1,
+    "pp_raw": "6-8.1",
+    "leistung": "Wegentschädigung nachts, pro km"
+  },
+  {
+    "ziffer": "4.0400",
+    "uvmv_iv": 76.7,
+    "pp_min": 65.2,
+    "pp_max": 88.2,
+    "pp_raw": "65.2-88.2",
+    "leistung": "UVIMVIKVG-Formular"
+  },
+  {
+    "ziffer": "4.0410",
+    "uvmv_iv": 66.2,
+    "pp_min": 56.3,
+    "pp_max": 76.1,
+    "pp_raw": "56.3-76.1",
+    "leistung": "IV-Formular Zahnarzt IV-Formular Kieferorthopäde"
+  },
+  {
+    "ziffer": "4.0420",
+    "uvmv_iv": 94.1,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.0430",
+    "uvmv_iv": 111.6,
+    "pp_min": 94.9,
+    "pp_max": 128.3,
+    "pp_raw": "94.9-128.3",
+    "leistung": "Verlangter ausführlicher Bericht"
+  },
+  {
+    "ziffer": "4.0440",
+    "uvmv_iv": 83.7,
+    "pp_min": 71.1,
+    "pp_max": 96.3,
+    "pp_raw": "71.1-96.3",
+    "leistung": "Zwischenbericht, Ergänzungsbericht, Schlusszeugnis Telefon mit Behörden, Versicherer, Labor (>5 Min.)"
+  },
+  {
+    "ziffer": "4.0442",
+    "uvmv_iv": 36.6,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42.1",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.0450",
+    "uvmv_iv": 38.4,
+    "pp_min": 32.6,
+    "pp_max": 44.2,
+    "pp_raw": "32.6-44.2",
+    "leistung": "Rezept, Überweisungsschreiben, Kurzattest Ausführliches Attest Zahnpflegeversicherung"
+  },
+  {
+    "ziffer": "4.0460",
+    "uvmv_iv": 76.7,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.0470",
+    "uvmv_iv": 83.7,
+    "pp_min": 71.1,
+    "pp_max": 96.3,
+    "pp_raw": "71.1-96.3",
+    "leistung": "Gutachten, pro 15 Min."
+  },
+  {
+    "ziffer": "4.0490",
+    "uvmv_iv": 83.7,
+    "pp_min": 71.1,
+    "pp_max": 96.3,
+    "pp_raw": "71.1-96.3",
+    "leistung": "Vertrauenszahnärztliche Tätigkeit. pro 15 Min. Intraorales Röntgenbild"
+  },
+  {
+    "ziffer": "4.0500",
+    "uvmv_iv": 19.2,
+    "pp_min": 16.3,
+    "pp_max": 22.1,
+    "pp_raw": "16.3-22.1",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.0510",
+    "uvmv_iv": 1569.0,
+    "pp_min": 133.4,
+    "pp_max": 180.4,
+    "pp_raw": "133.4-180.4",
+    "leistung": "FR/Schädelübersicht"
+  },
+  {
+    "ziffer": "4.0520",
+    "uvmv_iv": 122.0,
+    "pp_min": 103.7,
+    "pp_max": 140.3,
+    "pp_raw": "103.7-140.3",
+    "leistung": "Schädelteilaufnahme"
+  },
+  {
+    "ziffer": "4.0530",
+    "uvmv_iv": 156.9,
+    "pp_min": 133.4,
+    "pp_max": 180.4,
+    "pp_raw": "133.4-180.4",
+    "leistung": "OPT 4"
+  },
+  {
+    "ziffer": "4.0540",
+    "uvmv_iv": 55.8,
+    "pp_min": 47.4,
+    "pp_max": 64.2,
+    "pp_raw": "47.4-64.2",
+    "leistung": "Handröntgenbild 4 Röntgenkopie 4"
+  },
+  {
+    "ziffer": "4.0560",
+    "uvmv_iv": 34.9,
+    "pp_min": 29.7,
+    "pp_max": 40.1,
+    "pp_raw": "29.7-40.1",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.0570",
+    "uvmv_iv": null,
+    "pp_min": 334.9,
+    "pp_max": 453.1,
+    "pp_raw": "334.9-453.1",
+    "leistung": "DVT 4"
+  },
+  {
+    "ziffer": "4.0600",
+    "uvmv_iv": 36.6,
+    "pp_min": 5.0,
+    "pp_max": null,
+    "pp_raw": "5",
+    "leistung": "31.1-42:1 Lasereinsatz, pro Min. 4 4"
+  },
+  {
+    "ziffer": "4.0650",
+    "uvmv_iv": 38.4,
+    "pp_min": 32.6,
+    "pp_max": 44.2,
+    "pp_raw": "32.6-44.2",
+    "leistung": "Infiltrationsanāsthesie"
+  },
+  {
+    "ziffer": "4.0660",
+    "uvmv_iv": 76.7,
+    "pp_min": 65.2,
+    "pp_max": 88.2,
+    "pp_raw": "65.2-88.2",
+    "leistung": "Lachgasanalgesie oder -sedierung, pro Sitzung 4"
+  },
+  {
+    "ziffer": "4.0680",
+    "uvmv_iv": 83.7,
+    "pp_min": 4.0,
+    "pp_max": null,
+    "pp_raw": "4",
+    "leistung": "Zusätzlicher Zeitaufwand bei Algemeinnarkose, pro 15 Min. 4"
+  },
+  {
+    "ziffer": "4.0750",
+    "uvmv_iv": 101.1,
+    "pp_min": 32.6,
+    "pp_max": 44.2,
+    "pp_raw": "32.6-44.2",
+    "leistung": "Zentrikregistrat 4 Reqistrat mit Schablone"
+  },
+  {
+    "ziffer": "4.0760",
+    "uvmv_iv": null,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.0770",
+    "uvmv_iv": 216.2,
+    "pp_min": 183.8,
+    "pp_max": 248.0,
+    "pp_raw": "183.8-248",
+    "leistung": "6 Registrat Pfeilwinkel 4"
+  },
+  {
+    "ziffer": "4.0780",
+    "uvmv_iv": 15.7,
+    "pp_min": 13.3,
+    "pp_max": 181.0,
+    "pp_raw": "13.3-181",
+    "leistung": "Latero-oder Protrusionsregistrat 4 4"
+  },
+  {
+    "ziffer": "4.0790",
+    "uvmv_iv": 59.3,
+    "pp_min": 50.4,
+    "pp_max": 68.2,
+    "pp_raw": "50.4-68.2",
+    "leistung": "FGP-Registrat"
+  },
+  {
+    "ziffer": "4.0800",
+    "uvmv_iv": 59.3,
+    "pp_min": 50.4,
+    "pp_max": 68.2,
+    "pp_raw": "50.4-68.2",
+    "leistung": "Gesichtsbogen Mittelwert 4"
+  },
+  {
+    "ziffer": "4.0810",
+    "uvmv_iv": 92.4,
+    "pp_min": 65.2,
+    "pp_max": 88.2,
+    "pp_raw": "65.2-88.2",
+    "leistung": "Saqittale Kondylenbahn 4 Schanietachsenlokalisation 4"
+  },
+  {
+    "ziffer": "4.0830",
+    "uvmv_iv": 101.0,
+    "pp_min": 85.9,
+    "pp_max": 116.3,
+    "pp_raw": "85.9-116.3",
+    "leistung": "Rermontage Totalprothesen 4"
+  },
+  {
+    "ziffer": "4.0890",
+    "uvmv_iv": 15.7,
+    "pp_min": 4.0,
+    "pp_max": null,
+    "pp_raw": "4",
+    "leistung": "Abformung bei DH"
+  },
+  {
+    "ziffer": "4.0900",
+    "uvmv_iv": 41.8,
+    "pp_min": 35.5,
+    "pp_max": 48.1,
+    "pp_raw": "35.5-48.1",
+    "leistung": "Abformung beim Zahnarzt"
+  },
+  {
+    "ziffer": "4.0910",
+    "uvmv_iv": 8.7,
+    "pp_min": 7.4,
+    "pp_max": 10.0,
+    "pp_raw": "7.4-10",
+    "leistung": "Vitalitätsprobe (1-6 6 zähne)"
+  },
+  {
+    "ziffer": "4.0920",
+    "uvmv_iv": 26.0,
+    "pp_min": 22.2,
+    "pp_max": 30.0,
+    "pp_raw": "22.2-30",
+    "leistung": "Vitalitätsprobe pro Kiefer"
+  },
+  {
+    "ziffer": "4.0930",
+    "uvmv_iv": 12.2,
+    "pp_min": 10.4,
+    "pp_max": 14.0,
+    "pp_raw": "10.4-14",
+    "leistung": "Desensibilisierung"
+  },
+  {
+    "ziffer": "4.0940",
+    "uvmv_iv": 2.7,
+    "pp_min": 19.3,
+    "pp_max": 26.1,
+    "pp_raw": "19.3-26.1",
+    "leistung": "Kofferdam (1-3 Zähne)"
+  },
+  {
+    "ziffer": "4.0950",
+    "uvmv_iv": 38.4,
+    "pp_min": 32.6,
+    "pp_max": 44.2,
+    "pp_raw": "32.6-44.2",
+    "leistung": "Kofferdam (4 und mehr Zähne)"
+  },
+  {
+    "ziffer": "4.0960",
+    "uvmv_iv": 24.4,
+    "pp_min": 20.7,
+    "pp_max": 28.1,
+    "pp_raw": "20.7-28.1",
+    "leistung": "Schliffkorrektur, pro Zahn oder pro Slice"
+  },
+  {
+    "ziffer": "4.0970",
+    "uvmv_iv": 19.2,
+    "pp_min": 16.3,
+    "pp_max": 22.1,
+    "pp_raw": "16.3-22.1",
+    "leistung": "Fotoaufnahme Einsatz des Operationsmikroskopes"
+  },
+  {
+    "ziffer": "4.0980",
+    "uvmv_iv": 69.7,
+    "pp_min": 59.2,
+    "pp_max": 80.2,
+    "pp_raw": "59.2-80.2",
+    "leistung": "Mundhygieneanamnese, Instruktion, Motivation,"
+  },
+  {
+    "ziffer": "4.1000",
+    "uvmv_iv": 36.6,
+    "pp_min": 5.0,
+    "pp_max": null,
+    "pp_raw": "5",
+    "leistung": "pro Min."
+  },
+  {
+    "ziffer": "4.1010",
+    "uvmv_iv": 7.0,
+    "pp_min": 6.0,
+    "pp_max": 8.1,
+    "pp_raw": "6-8.1",
+    "leistung": "Plaqueanfärbung, pro Sextant Plaqueindex, pro Sextant"
+  },
+  {
+    "ziffer": "4.1020",
+    "uvmv_iv": 5.2,
+    "pp_min": 4.4,
+    "pp_max": 6.0,
+    "pp_raw": "4.4-6",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.1030",
+    "uvmv_iv": null,
+    "pp_min": 6.0,
+    "pp_max": 8.1,
+    "pp_raw": "6-8.1",
+    "leistung": "Gingivaindex, pro Sextant"
+  },
+  {
+    "ziffer": "4.1040",
+    "uvmv_iv": 12.0,
+    "pp_min": 10.4,
+    "pp_max": 14.0,
+    "pp_raw": "10,4-14",
+    "leistung": "Gingivaindex ausführlich"
+  },
+  {
+    "ziffer": "4.1050",
+    "uvmv_iv": 36.6,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42.1",
+    "leistung": "Mikrobiologie. pro 5 Min."
+  },
+  {
+    "ziffer": "4.1070",
+    "uvmv_iv": 10.5,
+    "pp_min": 8.9,
+    "pp_max": 12.1,
+    "pp_raw": "8.9-12.1",
+    "leistung": "Fluoridgelee"
+  },
+  {
+    "ziffer": "4.1080",
+    "uvmv_iv": 26.0,
+    "pp_min": 22.2,
+    "pp_max": 30.0,
+    "pp_raw": "22.2-30",
+    "leistung": "Fluoridlack (1-4 Zähne)"
+  },
+  {
+    "ziffer": "4.1090",
+    "uvmv_iv": 41.8,
+    "pp_min": 35.5,
+    "pp_max": 48.1,
+    "pp_raw": "35.5-48.1",
+    "leistung": "Fluoridlack (mehr als 4 zähne)"
+  },
+  {
+    "ziffer": "4.1100",
+    "uvmv_iv": 13.0,
+    "pp_min": 11.8,
+    "pp_max": 16.0,
+    "pp_raw": "11.8-16",
+    "leistung": "DH-Praktikantin-Behandlung, pro 5 Min."
+  },
+  {
+    "ziffer": "4.1105",
+    "uvmv_iv": 10.5,
+    "pp_min": 8.9,
+    "pp_max": 12.1,
+    "pp_raw": "8.9-12.1",
+    "leistung": "PA-Praktikantin-Behandlung, pro 5 Min. DH-Behandlung, pro 5 Min."
+  },
+  {
+    "ziffer": "4.1110",
+    "uvmv_iv": 15.7,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.1120",
+    "uvmv_iv": 12.0,
+    "pp_min": 10.4,
+    "pp_max": 14.0,
+    "pp_raw": "10.4-14",
+    "leistung": "PA-Behandlung, pro 5 Min."
+  },
+  {
+    "ziffer": "4.1130",
+    "uvmv_iv": 90.6,
+    "pp_min": 35.5,
+    "pp_max": 421.0,
+    "pp_raw": "35.5-421",
+    "leistung": "Gruppenprophylaxe Gruppenprophylaxe DH, Zahnarzt, pro 155 pro Min. 15 Min."
+  },
+  {
+    "ziffer": "4.1140",
+    "uvmv_iv": 41.8,
+    "pp_min": 4.0,
+    "pp_max": null,
+    "pp_raw": "4",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.1150",
+    "uvmv_iv": 22.7,
+    "pp_min": 19.3,
+    "pp_max": 26.1,
+    "pp_raw": "19.3-26.1",
+    "leistung": "Gruppenprophylaxe, pro 15 Min. 4"
+  },
+  {
+    "ziffer": "4.1160",
+    "uvmv_iv": 104.6,
+    "pp_min": 88.9,
+    "pp_max": 120.3,
+    "pp_raw": "88.9-120.3",
+    "leistung": "Prophylaxevortrag Zahnarzt, pro 15 Min. 4"
+  },
+  {
+    "ziffer": "4.1170",
+    "uvmv_iv": 48.8,
+    "pp_min": 41.5,
+    "pp_max": 56.1,
+    "pp_raw": "41.5-56.1",
+    "leistung": "Prophylaxevortrag DH, pro 15 Min. 4"
+  },
+  {
+    "ziffer": "4.1180",
+    "uvmv_iv": 4.0,
+    "pp_min": 29.7,
+    "pp_max": 40.1,
+    "pp_raw": "29.7-40.1",
+    "leistung": "Prophylaxevortrag, pro 15 Min. 4 Z Parodontale Kurzbefundaufnahme 4"
+  },
+  {
+    "ziffer": "4.1210",
+    "uvmv_iv": 177.8,
+    "pp_min": 151.1,
+    "pp_max": 204.5,
+    "pp_raw": "151.1-204.5",
+    "leistung": "Parodontale Befundaufnahme, einfach 4"
+  },
+  {
+    "ziffer": "4.1220",
+    "uvmv_iv": 268.5,
+    "pp_min": 228.2,
+    "pp_max": 308.8,
+    "pp_raw": "228.2-308.8",
+    "leistung": "Parodontale Befundaufnahme, mittelschwer 4"
+  },
+  {
+    "ziffer": "4.1230",
+    "uvmv_iv": 369.6,
+    "pp_min": 314.2,
+    "pp_max": 425.0,
+    "pp_raw": "314.2-425",
+    "leistung": "Parodontale Befundaufnahme. schwer 4"
+  },
+  {
+    "ziffer": "4.1240",
+    "uvmv_iv": 36.6,
+    "pp_min": 71.1,
+    "pp_max": 96.3,
+    "pp_raw": "71.1-96.3",
+    "leistung": "Aufzeichnung Attachment-Niveau Zahnreinigung Zahnarzt, pro 5 Min. 4"
+  },
+  {
+    "ziffer": "4.1260",
+    "uvmv_iv": 36.6,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42,1",
+    "leistung": "Zahnsteinentfernung Zahnarzt, pro 5 Min. 4 Überschussentfernung Füllung"
+  },
+  {
+    "ziffer": "4.1270",
+    "uvmv_iv": null,
+    "pp_min": 4.0,
+    "pp_max": null,
+    "pp_raw": "4",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.1280",
+    "uvmv_iv": 55.8,
+    "pp_min": 68.2,
+    "pp_max": 92.2,
+    "pp_raw": "68.2-92.2",
+    "leistung": "Überschussentfernung Krone 4 Gingivektomie Einzelzahn 4"
+  },
+  {
+    "ziffer": "4.1300",
+    "uvmv_iv": 282.4,
+    "pp_min": 240.0,
+    "pp_max": 324.8,
+    "pp_raw": "240-324.8",
+    "leistung": "Gingivektomie Sextant C"
+  },
+  {
+    "ziffer": "4.1310",
+    "uvmv_iv": 2.0,
+    "pp_min": 326.0,
+    "pp_max": 441.0,
+    "pp_raw": "326-441",
+    "leistung": "Gingivatransplantat 4 1 0 3 . 7 - 1 4 0. 3 G i n g i v a t r a ns l a n t a t , w e i t e res 3 8 5 . 2 - 5 2 1 . 2 4 . B i n d e g e w e b s t r a n s l a n t a t 4 ."
+  },
+  {
+    "ziffer": "4.1340",
+    "uvmv_iv": 5.0,
+    "pp_min": 133.4,
+    "pp_max": 180.4,
+    "pp_raw": "133.4-180.4",
+    "leistung": "Bindegewebstransplantat, weiteres 3 4 3 . 7 - 4 6 5 . 1 R e z e s s i o n s d e c k u n g 4. 4 . 1 3 3 . 4 - 1 8 0 , 4 R e z e s s i o n s d e c k u n g , w e i t e r e 4 . 2 0 4 . 5 - 2 7 6 . 7 D r e i e c k s l a e n o e r a t i o n 1 0 3 . 7 - 1 4 0 . 3 D r e i e c k s l a e n o e r a t i o n n,, ww 4 . e itere 4 . 4 7 4 . 1 - 6 4 1 . 5 a e n o e r a t i o n , m it t e l s chwer 4 . 5 5 1 . 2 - 7 4 5 . 8 a e n o e r a t i o n , s c h w e r 4 ."
+  },
+  {
+    "ziffer": "4.1420",
+    "uvmv_iv": 289.4,
+    "pp_min": 246.0,
+    "pp_max": 332.8,
+    "pp_raw": "246-332.8",
+    "leistung": "Parodontaloperation Einzelzahn 4."
+  },
+  {
+    "ziffer": "4.1430",
+    "uvmv_iv": 156.9,
+    "pp_min": 133.4,
+    "pp_max": 180.4,
+    "pp_raw": "133.4-180.4",
+    "leistung": "Lappenoperation, Kombination"
+  },
+  {
+    "ziffer": "4.1440",
+    "uvmv_iv": 109.8,
+    "pp_min": 93.3,
+    "pp_max": 126.3,
+    "pp_raw": "93.3-126.3",
+    "leistung": "Massnahmen für Attachment 4. 4."
+  },
+  {
+    "ziffer": "4.1460",
+    "uvmv_iv": 5.0,
+    "pp_min": 103.7,
+    "pp_max": 140.3,
+    "pp_raw": "103.7-140.3",
+    "leistung": "Parodontalabszess 4 9 4 . 9 - 1 2 8 . 3 N a c h b e h a n d l u n g nr a c h P a r o d o n t a l o e r a t i o n 11 8 . 6 - 1 6 0 . 4 P a r o d on t a l e S c h i e n u n g , e r s t e r I n t e r d e n t a l r a um 4 . 4 ."
+  },
+  {
+    "ziffer": "4.1510",
+    "uvmv_iv": 55.8,
+    "pp_min": 74.1,
+    "pp_max": 100.3,
+    "pp_raw": "74.1-100.3",
+    "leistung": "Parodontale Schienung, weiterer Interdentalraum 4. Parodontale Schienung, erstes Hilfsteil 4."
+  },
+  {
+    "ziffer": "4.1530",
+    "uvmv_iv": 34.9,
+    "pp_min": 29.7,
+    "pp_max": 40.1,
+    "pp_raw": "29.7-40.1",
+    "leistung": "Parodontale Schienung, weiteres Hilfsteil"
+  },
+  {
+    "ziffer": "4.1540",
+    "uvmv_iv": 52.3,
+    "pp_min": 44.5,
+    "pp_max": 60.1,
+    "pp_raw": "44.5-60.1",
+    "leistung": "Schienenentfernung, pro interdentalraum"
+  },
+  {
+    "ziffer": "4.1550",
+    "uvmv_iv": 366.1,
+    "pp_min": 311.2,
+    "pp_max": 421.0,
+    "pp_raw": "311.2-421",
+    "leistung": "7ahnfleischepithese UND (MAP)"
+  },
+  {
+    "ziffer": "4.1600",
+    "uvmv_iv": 6.0,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42.1",
+    "leistung": "MAP-Anamnese. pro 5 Min."
+  },
+  {
+    "ziffer": "4.1610",
+    "uvmv_iv": 36.6,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42.1",
+    "leistung": "MAP-Befundaufnahme Recall, pro 5 Min."
+  },
+  {
+    "ziffer": "4.1620",
+    "uvmv_iv": 45.3,
+    "pp_min": 38.5,
+    "pp_max": 52.1,
+    "pp_raw": "38.5-52.1",
+    "leistung": "Funktionsbefund"
+  },
+  {
+    "ziffer": "4.1630",
+    "uvmv_iv": 48.8,
+    "pp_min": 47.4,
+    "pp_max": 64.2,
+    "pp_raw": "47.4-64.2",
+    "leistung": "Provokationstest Resilienztest"
+  },
+  {
+    "ziffer": "4.1650",
+    "uvmv_iv": 55.8,
+    "pp_min": 47.4,
+    "pp_max": 64.2,
+    "pp_raw": "47.4-64.2",
+    "leistung": "Erhebung des Muskelbefundes"
+  },
+  {
+    "ziffer": "4.1660",
+    "uvmv_iv": 115.1,
+    "pp_min": 97.8,
+    "pp_max": 132.4,
+    "pp_raw": "97.8-132.4",
+    "leistung": "Feststellung der Kieferrelation"
+  },
+  {
+    "ziffer": "4.1670",
+    "uvmv_iv": 45.3,
+    "pp_min": 38.5,
+    "pp_max": 52.1,
+    "pp_raw": "38.5-52.1",
+    "leistung": "Anfärbung vorzeitiger Kontakte"
+  },
+  {
+    "ziffer": "4.1680",
+    "uvmv_iv": 33.0,
+    "pp_min": 28.1,
+    "pp_max": 38.1,
+    "pp_raw": "28.1-38.1",
+    "leistung": "Feststellen orofacialer Parafunktionen"
+  },
+  {
+    "ziffer": "4.1690",
+    "uvmv_iv": 174.0,
+    "pp_min": 14.8,
+    "pp_max": 20.0,
+    "pp_raw": "14.8-20",
+    "leistung": "Palpation der Kiefergelenke"
+  },
+  {
+    "ziffer": "4.1700",
+    "uvmv_iv": 80.2,
+    "pp_min": 68.2,
+    "pp_max": 92.2,
+    "pp_raw": "68.2-92.2",
+    "leistung": "Okklusionsanalyse"
+  },
+  {
+    "ziffer": "4.1710",
+    "uvmv_iv": 139.5,
+    "pp_min": 118.6,
+    "pp_max": 160.4,
+    "pp_raw": "118.6-160.4",
+    "leistung": "Einschleifplan"
+  },
+  {
+    "ziffer": "4.1720",
+    "uvmv_iv": 36.6,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42.1",
+    "leistung": "Einschleifen, pro 5 Min."
+  },
+  {
+    "ziffer": "4.1750",
+    "uvmv_iv": 104.6,
+    "pp_min": 88.9,
+    "pp_max": 120.3,
+    "pp_raw": "88.9-120.3",
+    "leistung": "Tiefziehschiene"
+  },
+  {
+    "ziffer": "4.1760",
+    "uvmv_iv": 275.4,
+    "pp_min": 234.1,
+    "pp_max": 316.7,
+    "pp_raw": "234.1-316.7",
+    "leistung": "Kunststoffschiene"
+  },
+  {
+    "ziffer": "4.1770",
+    "uvmv_iv": 303.3,
+    "pp_min": 257.8,
+    "pp_max": 348.8,
+    "pp_raw": "257.8-348.8",
+    "leistung": "Michiganschiene"
+  },
+  {
+    "ziffer": "4.1780",
+    "uvmv_iv": 477.7,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": "A06-549g.4 Semipermanente Schiene Metall"
+  },
+  {
+    "ziffer": "4.1790",
+    "uvmv_iv": 122.0,
+    "pp_min": 103.7,
+    "pp_max": 140.3,
+    "pp_raw": "103.7-140.3",
+    "leistung": "Pivotierungsschiene"
+  },
+  {
+    "ziffer": "4.1800",
+    "uvmv_iv": 125.5,
+    "pp_min": 106.7,
+    "pp_max": 144.3,
+    "pp_raw": "106.7-144.3",
+    "leistung": "Frontzahn-Jig"
+  },
+  {
+    "ziffer": "4.1810",
+    "uvmv_iv": 118.5,
+    "pp_min": 100.7,
+    "pp_max": 136.3,
+    "pp_raw": "100.7-136.3",
+    "leistung": "Abānderung/Reparatur einer Schiene"
+  },
+  {
+    "ziffer": "4.1820",
+    "uvmv_iv": 195.2,
+    "pp_min": 165.9,
+    "pp_max": 224.5,
+    "pp_raw": "165.9-224.5",
+    "leistung": "Abānderung/Reparatur einer Schiene mit Abformung"
+  },
+  {
+    "ziffer": "4.1830",
+    "uvmv_iv": 345.2,
+    "pp_min": 293.4,
+    "pp_max": 397.0,
+    "pp_raw": "293.4-397",
+    "leistung": "NTI-tSs"
+  },
+  {
+    "ziffer": "4.1850",
+    "uvmv_iv": null,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": "Instruktion physikalische Therapie"
+  },
+  {
+    "ziffer": "4.1860",
+    "uvmv_iv": 94.1,
+    "pp_min": 80.0,
+    "pp_max": 108.2,
+    "pp_raw": "80-108.2",
+    "leistung": "Instruktion Physiotherapie Therapie mit UltraschallUSollux/Mikro-/Kurzwellen/UV"
+  },
+  {
+    "ziffer": "4.1870",
+    "uvmv_iv": 41.8,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.1880",
+    "uvmv_iv": 36.6,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42.1",
+    "leistung": "Myofunktionelle Therapie, pro 5 Min."
+  },
+  {
+    "ziffer": "4.1900",
+    "uvmv_iv": 55.8,
+    "pp_min": 47.4,
+    "pp_max": 64.2,
+    "pp_raw": "47.4-64.2",
+    "leistung": "MAP-Nachkontrolle"
+  },
+  {
+    "ziffer": "4.1910",
+    "uvmv_iv": 36.6,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42.1",
+    "leistung": "Nacheinschleifen Schiene. pro 5 Min."
+  },
+  {
+    "ziffer": "4.2000",
+    "uvmv_iv": 52.3,
+    "pp_min": 44.5,
+    "pp_max": 60.1,
+    "pp_raw": "44.5-60.1",
+    "leistung": "Zahnextraktion,e infach Zahnextraktion, aufwāndig"
+  },
+  {
+    "ziffer": "4.2010",
+    "uvmv_iv": 104.6,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.2020",
+    "uvmv_iv": 136.0,
+    "pp_min": 115.6,
+    "pp_max": 156.4,
+    "pp_raw": "115.6-156.4",
+    "leistung": "Zahnextraktion mit Separieren"
+  },
+  {
+    "ziffer": "4.2030",
+    "uvmv_iv": 3138.0,
+    "pp_min": 192.6,
+    "pp_max": 260.6,
+    "pp_raw": "192.6-260.6",
+    "leistung": "Zahnextraktion unter Aufklappung Zahnextraktion unter Aufklappung mit Separieren"
+  },
+  {
+    "ziffer": "4.2050",
+    "uvmv_iv": 83.0,
+    "pp_min": 71.1,
+    "pp_max": 96.3,
+    "pp_raw": "71.1-96.3",
+    "leistung": "Hemisektion oder Wurzelamputation"
+  },
+  {
+    "ziffer": "4.2060",
+    "uvmv_iv": 289.4,
+    "pp_min": 246.0,
+    "pp_max": 332.8,
+    "pp_raw": "246-332.8",
+    "leistung": "Operative Entfernung retinierter Zahn, einfach"
+  },
+  {
+    "ziffer": "4.2070",
+    "uvmv_iv": 404.4,
+    "pp_min": 343.7,
+    "pp_max": 465.1,
+    "pp_raw": "343.7-465.1",
+    "leistung": "Operative Entfernung retinierter Zahn, schwer"
+  },
+  {
+    "ziffer": "4.2080",
+    "uvmv_iv": 404.4,
+    "pp_min": 343.7,
+    "pp_max": 465.1,
+    "pp_raw": "343.7-465.1",
+    "leistung": "Zahnkeimentnahme zur Transplantation Aufwāndige Massnahmen zur Kammerhaltung"
+  },
+  {
+    "ziffer": "4.2090",
+    "uvmv_iv": 109.8,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.2100",
+    "uvmv_iv": 383.5,
+    "pp_min": 5.0,
+    "pp_max": 56.1,
+    "pp_raw": "5-56.1",
+    "leistung": "A1 Kleine Exzision Mundschleimhautbehandlung Probeexzision Exzision Operation einer Ranula Speichelsteinentfernung Fremdkörperentfernung Lippen-, Zungen-, Wangenbandkorrektur Schlotterkammexzision Vestibulumplastik Mundbodenplastik Explorative Aufklappung Schleimhautentnahme Gaumen"
+  },
+  {
+    "ziffer": "4.2240",
+    "uvmv_iv": 156.9,
+    "pp_min": 266.7,
+    "pp_max": 360.9,
+    "pp_raw": "266.7-360.9",
+    "leistung": "Schleimhautentnahme Wange 2 Unterfüttern einer Platte Einfache Bindegewebsentnahme Abszesseröffnung Eröffnung Logenabszess"
+  },
+  {
+    "ziffer": "4.2310",
+    "uvmv_iv": 296.4,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": "Wurzelspitzenresektion Wurzelspitzenresektion, weitere"
+  },
+  {
+    "ziffer": "4.2320",
+    "uvmv_iv": 216.2,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.2330",
+    "uvmv_iv": 505.5,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": "Wurzelspitzenresektion mit retrogradem Verschluss"
+  },
+  {
+    "ziffer": "4.2340",
+    "uvmv_iv": 369.6,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": "Wurzelspitzenresektion, weitere mit retrogradem Ver schluss"
+  },
+  {
+    "ziffer": "4.2350",
+    "uvmv_iv": 345.2,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": "Zystenoperation ohne Auffüllen"
+  },
+  {
+    "ziffer": "4.2360",
+    "uvmv_iv": 401.0,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": "Zystenoperation mit Auffüllen Zystenoperation zur Mundhöhle"
+  },
+  {
+    "ziffer": "4.2370",
+    "uvmv_iv": 383.5,
+    "pp_min": 326.0,
+    "pp_max": 441.0,
+    "pp_raw": "326-441",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.2380",
+    "uvmv_iv": 191.8,
+    "pp_min": 100.7,
+    "pp_max": 136.3,
+    "pp_raw": "100.7-136.3",
+    "leistung": "Zystenoperation zur Nasen-oder Kieferhöhle Eingliederung eines Obturators Anpassung des Obturators Revision am Alveolarfortsatz"
+  },
+  {
+    "ziffer": "4.2420",
+    "uvmv_iv": 275.4,
+    "pp_min": 234.1,
+    "pp_max": 316.7,
+    "pp_raw": "234.1-316.7",
+    "leistung": "Fremdkörperentfernung"
+  },
+  {
+    "ziffer": "4.2430",
+    "uvmv_iv": 320.8,
+    "pp_min": 272.7,
+    "pp_max": 368.9,
+    "pp_raw": "272.7-368.9",
+    "leistung": "Abtraqung Spina nasalis"
+  },
+  {
+    "ziffer": "4.2440",
+    "uvmv_iv": 373.1,
+    "pp_min": 299.3,
+    "pp_max": 404.9,
+    "pp_raw": "299.3-404.9",
+    "leistung": "Alveolarfortsatzosteotomie Entfernung gutartiger Tumor"
+  },
+  {
+    "ziffer": "4.2460",
+    "uvmv_iv": 73.2,
+    "pp_min": 281.5,
+    "pp_max": 380.9,
+    "pp_raw": "281.5-380.9",
+    "leistung": "Transplantation eines Zahnkeims Retrograder Verschluss bei Zystenoperation Resektion bei Zystenoperation"
+  },
+  {
+    "ziffer": "4.2500",
+    "uvmv_iv": 237.1,
+    "pp_min": 201.5,
+    "pp_max": 272.7,
+    "pp_raw": "201.5-272.7",
+    "leistung": "Erstbeurteilung und Aufklärung Implantat"
+  },
+  {
+    "ziffer": "4.2510",
+    "uvmv_iv": 3242.0,
+    "pp_min": 275.6,
+    "pp_max": 372.8,
+    "pp_raw": "275.6-372.8",
+    "leistung": "Sinusbodenelevation bei Implantation"
+  },
+  {
+    "ziffer": "4.2520",
+    "uvmv_iv": 659.0,
+    "pp_min": 560.2,
+    "pp_max": 757.9,
+    "pp_raw": "560.2-757.9",
+    "leistung": "Sinusbodenelevation alleiniger Eingriff"
+  },
+  {
+    "ziffer": "4.2530",
+    "uvmv_iv": 669.4,
+    "pp_min": 569.0,
+    "pp_max": 769.8,
+    "pp_raw": "569-769.8",
+    "leistung": "1. Implantat Weiteres Implantat"
+  },
+  {
+    "ziffer": "4.2545",
+    "uvmv_iv": 334.7,
+    "pp_min": 284.5,
+    "pp_max": 384.9,
+    "pp_raw": "284.5-384.9",
+    "leistung": "1. Miniimplantat"
+  },
+  {
+    "ziffer": "4.2550",
+    "uvmv_iv": 87.2,
+    "pp_min": 177.8,
+    "pp_max": 240.6,
+    "pp_raw": "177.8-240.6",
+    "leistung": "Weiteres Minimplantat Erste Nachbehandlung bei Implantation Wiedereröffnungsoperation"
+  },
+  {
+    "ziffer": "4.2570",
+    "uvmv_iv": 118.0,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.2575",
+    "uvmv_iv": 69.0,
+    "pp_min": 59.2,
+    "pp_max": 80.2,
+    "pp_raw": "59.2-80.2",
+    "leistung": "Wiedereröffnungsoperation, weitere"
+  },
+  {
+    "ziffer": "4.2580",
+    "uvmv_iv": 80.0,
+    "pp_min": 68.2,
+    "pp_max": 92.2,
+    "pp_raw": "68.2-92.2",
+    "leistung": "Montage und Demontage von Hilfsteilen"
+  },
+  {
+    "ziffer": "4.2590",
+    "uvmv_iv": 289.4,
+    "pp_min": 246.0,
+    "pp_max": 332.8,
+    "pp_raw": "246-332.8",
+    "leistung": "Entfernung eingeheiltes Implantat"
+  },
+  {
+    "ziffer": "4.2600",
+    "uvmv_iv": 52.5,
+    "pp_min": 44.5,
+    "pp_max": 60.1,
+    "pp_raw": "44.5-60.1",
+    "leistung": "Entfernung nicht eingeheiltes, gelockertes lmplantat"
+  },
+  {
+    "ziffer": "4.2610",
+    "uvmv_iv": 289.4,
+    "pp_min": 246.0,
+    "pp_max": 332.8,
+    "pp_raw": "246-332.8",
+    "leistung": "Augmentation bei Implantation"
+  },
+  {
+    "ziffer": "4.2615",
+    "uvmv_iv": 109.8,
+    "pp_min": 93.3,
+    "pp_max": 126.3,
+    "pp_raw": "93.3-126.3",
+    "leistung": "Weitere Augmentation bei Implantation"
+  },
+  {
+    "ziffer": "4.2620",
+    "uvmv_iv": 578.8,
+    "pp_min": 492.0,
+    "pp_max": 665.6,
+    "pp_raw": "492-665.6",
+    "leistung": "Knochenaugmentation, als selbstständiqer Eingriff"
+  },
+  {
+    "ziffer": "4.2630",
+    "uvmv_iv": 87.2,
+    "pp_min": 74.1,
+    "pp_max": 100.3,
+    "pp_raw": "74.1-100.3",
+    "leistung": "Entfernung der Membran"
+  },
+  {
+    "ziffer": "4.2640",
+    "uvmv_iv": 94.1,
+    "pp_min": 80.0,
+    "pp_max": 108.2,
+    "pp_raw": "80-108.2",
+    "leistung": "Indirekte Sinusbodenelevation"
+  },
+  {
+    "ziffer": "4.2650",
+    "uvmv_iv": 80.2,
+    "pp_min": 68.2,
+    "pp_max": 92.2,
+    "pp_raw": "68.2-92.2",
+    "leistung": "Spülung der Kieferhöhle durch die Alveole"
+  },
+  {
+    "ziffer": "4.2660",
+    "uvmv_iv": 101.1,
+    "pp_min": 85.9,
+    "pp_max": 116.3,
+    "pp_raw": "85.9-116.3",
+    "leistung": "Spülung der Kieferhöhle durch die Fossa canina"
+  },
+  {
+    "ziffer": "4.2670",
+    "uvmv_iv": 470.7,
+    "pp_min": 400.1,
+    "pp_max": 541.3,
+    "pp_raw": "400.1-541.3",
+    "leistung": "Verschluss einer Mund-Antrum-Verbindung"
+  },
+  {
+    "ziffer": "4.2680",
+    "uvmv_iv": 209.2,
+    "pp_min": 177.8,
+    "pp_max": 240.6,
+    "pp_raw": "177.8-240.6",
+    "leistung": "Verschluss nach Antrumperforation"
+  },
+  {
+    "ziffer": "4.2690",
+    "uvmv_iv": 195.2,
+    "pp_min": 165.9,
+    "pp_max": 224.5,
+    "pp_raw": "165.9-224.5",
+    "leistung": "Fremdkörperentfernung auş Kieferhöhle"
+  },
+  {
+    "ziffer": "4.2700",
+    "uvmv_iv": 4.0,
+    "pp_min": 32.6,
+    "pp_max": 44.2,
+    "pp_raw": "32.6-44.2",
+    "leistung": "Replantation oder Reposition eines Zahnes Alveolarfortsatzreposition, einfach"
+  },
+  {
+    "ziffer": "4.2710",
+    "uvmv_iv": null,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.2720",
+    "uvmv_iv": 156.9,
+    "pp_min": 133.4,
+    "pp_max": 180.4,
+    "pp_raw": "133.4-180.4",
+    "leistung": "Alveolarfortsatzreposition, schwer"
+  },
+  {
+    "ziffer": "4.2750",
+    "uvmv_iv": 1569.0,
+    "pp_min": 100.7,
+    "pp_max": 136.3,
+    "pp_raw": "100.7-136.3",
+    "leistung": "Drahtligaturen, pro Quadrant Drahtschiene direkt, pro Quadrant"
+  },
+  {
+    "ziffer": "4.2770",
+    "uvmv_iv": 139.5,
+    "pp_min": 118.6,
+    "pp_max": 160.4,
+    "pp_raw": "118.6-160.4",
+    "leistung": "Drahtschiene indirekt, pro Quadrant Drahtkunststoffschiene, pro Quadrant"
+  },
+  {
+    "ziffer": "4.2780",
+    "uvmv_iv": 139.5,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.2790",
+    "uvmv_iv": 149.9,
+    "pp_min": 16.3,
+    "pp_max": 22.1,
+    "pp_raw": "16.3-22.1",
+    "leistung": "Jede weitere Ligatur Schienenūberzug mit Autopolymerisat Kunststoffschiene, direkt"
+  },
+  {
+    "ziffer": "4.2820",
+    "uvmv_iv": 237.1,
+    "pp_min": 299.3,
+    "pp_max": 404.9,
+    "pp_raw": "299.3-404.9",
+    "leistung": "Schiene, zementiert Entfernen einzementierte Schiene"
+  },
+  {
+    "ziffer": "4.2840",
+    "uvmv_iv": 195.2,
+    "pp_min": 100.7,
+    "pp_max": 136.3,
+    "pp_raw": "100.7-136.3",
+    "leistung": "Entfernen einligierte Schiene Rezementieren Schiene"
+  },
+  {
+    "ziffer": "4.2860",
+    "uvmv_iv": 146.4,
+    "pp_min": 16.3,
+    "pp_max": 22.1,
+    "pp_raw": "16.3-22.1",
+    "leistung": "Erneute Fixation, pro Ligatur Kinnkappenverband Anlegen von internaxillären Zügen TTS-Schiene"
+  },
+  {
+    "ziffer": "4.2900",
+    "uvmv_iv": 41.8,
+    "pp_min": 35.5,
+    "pp_max": 48.1,
+    "pp_raw": "35.5-48.1",
+    "leistung": "Wundkontrolle"
+  },
+  {
+    "ziffer": "4.2910",
+    "uvmv_iv": 622.0,
+    "pp_min": 53.4,
+    "pp_max": 72.2,
+    "pp_raw": "53.4-72.2",
+    "leistung": "Wundbehandlung"
+  },
+  {
+    "ziffer": "4.2930",
+    "uvmv_iv": 97.6,
+    "pp_min": 83.0,
+    "pp_max": 112.2,
+    "pp_raw": "83-112.2",
+    "leistung": "Behandlung einer Nachblutung"
+  },
+  {
+    "ziffer": "4.2940",
+    "uvmv_iv": 38.4,
+    "pp_min": 32.6,
+    "pp_max": 44.2,
+    "pp_raw": "32.6-44.2",
+    "leistung": "Zusätzliche Massnahmen bei Gerinnungsstörungen"
+  },
+  {
+    "ziffer": "4.2950",
+    "uvmv_iv": 13.9,
+    "pp_min": 11.8,
+    "pp_max": 16.0,
+    "pp_raw": "11.8-16",
+    "leistung": "Naht, pro Naht Wundverband"
+  },
+  {
+    "ziffer": "4.2970",
+    "uvmv_iv": 22.7,
+    "pp_min": 19.3,
+    "pp_max": 26.1,
+    "pp_raw": "19.3-26.1",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.2980",
+    "uvmv_iv": 118.5,
+    "pp_min": 100.7,
+    "pp_max": 136.3,
+    "pp_raw": "100.7-136.3",
+    "leistung": "Verbandplatte"
+  },
+  {
+    "ziffer": "4.2990",
+    "uvmv_iv": 38.4,
+    "pp_min": 32.6,
+    "pp_max": 44.2,
+    "pp_raw": "32.6-44.2",
+    "leistung": "Injektion ins Kiefergelenk Sekundäre Korrektur des Knochens bei Gaumenspalte"
+  },
+  {
+    "ziffer": "4.3000",
+    "uvmv_iv": 1736.3,
+    "pp_min": 850.5,
+    "pp_max": 1150.7,
+    "pp_raw": "850.5-1150.7",
+    "leistung": "Osteoplastik"
+  },
+  {
+    "ziffer": "4.3010",
+    "uvmv_iv": 1000.6,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.3020",
+    "uvmv_iv": 944.9,
+    "pp_min": 803.2,
+    "pp_max": 1086.6,
+    "pp_raw": "803.2-1086.6",
+    "leistung": "Sekundäre Weichteilkorrektur beiG aumenspalte"
+  },
+  {
+    "ziffer": "4.3030",
+    "uvmv_iv": 550.9,
+    "pp_min": 468.3,
+    "pp_max": 633.5,
+    "pp_raw": "468.3-633.5",
+    "leistung": "Restlochverschluss/Verschiebeplastik"
+  },
+  {
+    "ziffer": "4.3040",
+    "uvmv_iv": 1670.1,
+    "pp_min": 1419.6,
+    "pp_max": 1920.6,
+    "pp_raw": "1419.6-1920.6",
+    "leistung": "Velumplastik"
+  },
+  {
+    "ziffer": "4.3050",
+    "uvmv_iv": 1391.1,
+    "pp_min": 1182.4,
+    "pp_max": 1599.8,
+    "pp_raw": "1182.4-1599.8",
+    "leistung": "Pharynxplastik"
+  },
+  {
+    "ziffer": "4.3060",
+    "uvmv_iv": 278.9,
+    "pp_min": 237.1,
+    "pp_max": 320.7,
+    "pp_raw": "237.1-320.7",
+    "leistung": "Pharynimplantat"
+  },
+  {
+    "ziffer": "4.3070",
+    "uvmv_iv": 1502.7,
+    "pp_min": 1277.3,
+    "pp_max": 1728.1,
+    "pp_raw": "1277.3-1728.1",
+    "leistung": "Korrektur Lippen-Kieferspalte, einseitig"
+  },
+  {
+    "ziffer": "4.3080",
+    "uvmv_iv": 1331.9,
+    "pp_min": 1132.1,
+    "pp_max": 1531.7,
+    "pp_raw": "1132.1-1531.7",
+    "leistung": "Korrektur Lippenspalte, einseitig"
+  },
+  {
+    "ziffer": "4.3090",
+    "uvmv_iv": 1157.5,
+    "pp_min": 983.9,
+    "pp_max": 1331.1,
+    "pp_raw": "983.9-1331.1",
+    "leistung": "Stiellappen, erster Eingriff"
+  },
+  {
+    "ziffer": "4.3100",
+    "uvmv_iv": 578.8,
+    "pp_min": 492.0,
+    "pp_max": 665.6,
+    "pp_raw": "492-665.6",
+    "leistung": "Stiellappen, zweiter Eingriff"
+  },
+  {
+    "ziffer": "4.3110",
+    "uvmv_iv": 202.0,
+    "pp_min": 171.9,
+    "pp_max": 232.5,
+    "pp_raw": "171.9-232.5",
+    "leistung": "Kleine Korrekturoperation Lippen"
+  },
+  {
+    "ziffer": "4.3120",
+    "uvmv_iv": 435.8,
+    "pp_min": 370.4,
+    "pp_max": 501.2,
+    "pp_raw": "370.4-501.2",
+    "leistung": "Whistling deformity-Korrektur, Amorbogen"
+  },
+  {
+    "ziffer": "4.3130",
+    "uvmv_iv": 578.0,
+    "pp_min": 492.0,
+    "pp_max": 665.6,
+    "pp_raw": "492-665.6",
+    "leistung": "Nasenstegverlängerung"
+  },
+  {
+    "ziffer": "4.3140",
+    "uvmv_iv": 289.4,
+    "pp_min": 246.0,
+    "pp_max": 332.8,
+    "pp_raw": "246-332.8",
+    "leistung": "Naseneingangskorrektur"
+  },
+  {
+    "ziffer": "4.3200",
+    "uvmv_iv": 1506.2,
+    "pp_min": 1280.3,
+    "pp_max": 1732.1,
+    "pp_raw": "1280.3-1732.1",
+    "leistung": "Alveolarfortsatzosteotomie horizontal Alveolarfortsatzosteotomie vertikal"
+  },
+  {
+    "ziffer": "4.3210",
+    "uvmv_iv": 435.8,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.3220",
+    "uvmv_iv": 523.0,
+    "pp_min": 444.6,
+    "pp_max": 601.5,
+    "pp_raw": "444.6-601.5",
+    "leistung": "Alveolarfortsatzosteotomie isoliert"
+  },
+  {
+    "ziffer": "4.3230",
+    "uvmv_iv": 1272.6,
+    "pp_min": 1081.7,
+    "pp_max": 1463.5,
+    "pp_raw": "1081.7-1463.5",
+    "leistung": "Kieferosteotomie vollständig, pro Stelle"
+  },
+  {
+    "ziffer": "4.3240",
+    "uvmv_iv": 1101.7,
+    "pp_min": 936.4,
+    "pp_max": 1267.0,
+    "pp_raw": "936.4-1267",
+    "leistung": "Kieferosteotomie unvollständig"
+  },
+  {
+    "ziffer": "4.3250",
+    "uvmv_iv": 693.8,
+    "pp_min": 589.7,
+    "pp_max": 797.9,
+    "pp_raw": "589.7-797.9",
+    "leistung": "Zungenreduktionsplastik"
+  },
+  {
+    "ziffer": "4.3260",
+    "uvmv_iv": 278.9,
+    "pp_min": 237.1,
+    "pp_max": 320.7,
+    "pp_raw": "237.1-320.7",
+    "leistung": "OP-Planung an Modellen"
+  },
+  {
+    "ziffer": "4.3270",
+    "uvmv_iv": 435.8,
+    "pp_min": 370.4,
+    "pp_max": 501.2,
+    "pp_raw": "370.4-501.2",
+    "leistung": "Diagnostisches Set-Up"
+  },
+  {
+    "ziffer": "4.3280",
+    "uvmv_iv": 240.6,
+    "pp_min": 204.5,
+    "pp_max": 276.7,
+    "pp_raw": "204.5-276.7",
+    "leistung": "Prediction planning/Simulografie"
+  },
+  {
+    "ziffer": "4.3300",
+    "uvmv_iv": 289.4,
+    "pp_min": 246.0,
+    "pp_max": 332.8,
+    "pp_raw": "246-332.8",
+    "leistung": "Reposition Jochbein/-bogen, Maxilla lateral"
+  },
+  {
+    "ziffer": "4.3310",
+    "uvmv_iv": 578.8,
+    "pp_min": 492.0,
+    "pp_max": 665.6,
+    "pp_raw": "492-665.6",
+    "leistung": "Disimpaction Mittelgesicht"
+  },
+  {
+    "ziffer": "4.3320",
+    "uvmv_iv": 87.2,
+    "pp_min": 74.1,
+    "pp_max": 100.3,
+    "pp_raw": "74.1-100.3",
+    "leistung": "Reposition bei Distraktion oder Stufenbildung Reposition bei Stufenbildung und Verkeilung"
+  },
+  {
+    "ziffer": "4.3330",
+    "uvmv_iv": 1743.0,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.3340",
+    "uvmv_iv": 289.4,
+    "pp_min": 246.0,
+    "pp_max": 332.8,
+    "pp_raw": "246-332.8",
+    "leistung": "Reposition bei starker Dislokation, Trümmerfraktur"
+  },
+  {
+    "ziffer": "4.3350",
+    "uvmv_iv": 1670.1,
+    "pp_min": 237.1,
+    "pp_max": 320.7,
+    "pp_raw": "237.1-320.7",
+    "leistung": "Zuschlag für Zugang pro Etage und Seite Zuschlag für transkonjunktivalen Zugang Zuschlag für Zugang, pro Seite Dekompression der Orbita Dekompression des N. opticus"
+  },
+  {
+    "ziffer": "4.3420",
+    "uvmv_iv": 753.1,
+    "pp_min": 640.1,
+    "pp_max": 866.1,
+    "pp_raw": "640.1-866.1",
+    "leistung": "Fixation kanthales Ligament"
+  },
+  {
+    "ziffer": "4.3430",
+    "uvmv_iv": 390.5,
+    "pp_min": 331.9,
+    "pp_max": 449.1,
+    "pp_raw": "331.9-449.1",
+    "leistung": "Sinusdrainage transnasal"
+  },
+  {
+    "ziffer": "4.3440",
+    "uvmv_iv": 557.8,
+    "pp_min": 569.0,
+    "pp_max": 769.8,
+    "pp_raw": "569-769.8",
+    "leistung": "Sinustamponade Revision zur Stillung einer Nachblutung"
+  },
+  {
+    "ziffer": "4.3500",
+    "uvmv_iv": 115.1,
+    "pp_min": 97.8,
+    "pp_max": 132.4,
+    "pp_raw": "97.8-132.4",
+    "leistung": "Perimandibuläre/transmaxilläre Drahtung"
+  },
+  {
+    "ziffer": "4.3510",
+    "uvmv_iv": 812.4,
+    "pp_min": 690.5,
+    "pp_max": 934.3,
+    "pp_raw": "690.5-934.3",
+    "leistung": "Interskelettale Drahtaufhängung"
+  },
+  {
+    "ziffer": "4.3520",
+    "uvmv_iv": 1157.5,
+    "pp_min": 788.3,
+    "pp_max": 1066.5,
+    "pp_raw": "788.3-1066.5",
+    "leistung": "Drahtosteosynthese Platten,Z ugschrauben"
+  },
+  {
+    "ziffer": "4.3540",
+    "uvmv_iv": 418.4,
+    "pp_min": 355.6,
+    "pp_max": 481.2,
+    "pp_raw": "355.6-481.2",
+    "leistung": "Fixateur/Craniofixateur externe"
+  },
+  {
+    "ziffer": "4.3550",
+    "uvmv_iv": 1272.6,
+    "pp_min": 1081.7,
+    "pp_max": 1463.5,
+    "pp_raw": "1081.7-1463.5",
+    "leistung": "Modellplanung, Pseudoarthrosebehandlung alte Fraktur durch Osteosynthese"
+  },
+  {
+    "ziffer": "4.3560",
+    "uvmv_iv": 278.9,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.3570",
+    "uvmv_iv": 2318.5,
+    "pp_min": 1970.7,
+    "pp_max": 2666.3,
+    "pp_raw": "1970.7-2666.3",
+    "leistung": "Rekonstruktion durchgehender UK-Defekt"
+  },
+  {
+    "ziffer": "4.3580",
+    "uvmv_iv": 289.4,
+    "pp_min": 246.0,
+    "pp_max": 332.8,
+    "pp_raw": "246-332.8",
+    "leistung": "Entfernung Osteosynthesematerial, pro Operationsstelle"
+  },
+  {
+    "ziffer": "4.3600",
+    "uvmv_iv": 289.4,
+    "pp_min": 246.0,
+    "pp_max": 332.8,
+    "pp_raw": "246-332.8",
+    "leistung": "Knochen/Knorpelentnahme zur Transplantation Konturaufbau, Knochenformung"
+  },
+  {
+    "ziffer": "4.3610",
+    "uvmv_iv": 983.2,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.3630",
+    "uvmv_iv": 41.8,
+    "pp_min": 35.5,
+    "pp_max": 48.1,
+    "pp_raw": "35.5-48.1",
+    "leistung": "Reposition KG-Luxation"
+  },
+  {
+    "ziffer": "4.3640",
+    "uvmv_iv": 446.3,
+    "pp_min": 835.7,
+    "pp_max": 1130.7,
+    "pp_raw": "835.7-1130.7",
+    "leistung": "Exstripation Diskus/Köpfchen, pro Seite Resektion Proc. Muscularis, pro Seite OP Ankylose/Arthroplastik Diagnostische Arthroskopie Therapeutische Arthroskopie"
+  },
+  {
+    "ziffer": "4.3700",
+    "uvmv_iv": 348.7,
+    "pp_min": 296.4,
+    "pp_max": 401.0,
+    "pp_raw": "296,4-401",
+    "leistung": "Kürettage osteomyelitischer Herd"
+  },
+  {
+    "ziffer": "4.3710",
+    "uvmv_iv": 1272.6,
+    "pp_min": 1081.7,
+    "pp_max": 1463.5,
+    "pp_raw": "1081.7-1463,5",
+    "leistung": "Dekortikation bei Osteomyelitis"
+  },
+  {
+    "ziffer": "4.3750",
+    "uvmv_iv": 390.5,
+    "pp_min": 331.9,
+    "pp_max": 449.1,
+    "pp_raw": "331,9-449.1",
+    "leistung": "Dentogener Logenabszess, extraoral"
+  },
+  {
+    "ziffer": "4.3760",
+    "uvmv_iv": 697.3,
+    "pp_min": 711.3,
+    "pp_max": 962.3,
+    "pp_raw": "711.3-962.3",
+    "leistung": "OP Revision dentogener Phlegmone OP qutartiger Tumor >1cm"
+  },
+  {
+    "ziffer": "4.3810",
+    "uvmv_iv": 1391.1,
+    "pp_min": 1182.4,
+    "pp_max": 1599.8,
+    "pp_raw": "1182.4-1599.8",
+    "leistung": "OP Tumor T1-T3 OP Tumor T4"
+  },
+  {
+    "ziffer": "4.3820",
+    "uvmv_iv": 1670.0,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.3830",
+    "uvmv_iv": 753.1,
+    "pp_min": 1893.7,
+    "pp_max": 2562.1,
+    "pp_raw": "1893.7-2562.1",
+    "leistung": "OPTumor mit Kieferresektion UK-Rekonstruktion nach Resektion Resektionskloss 1 Mundbodenplastik ausgedehnt Tuberplastik, pro Seite"
+  },
+  {
+    "ziffer": "4.3880",
+    "uvmv_iv": 317.3,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.3890",
+    "uvmv_iv": 836.8,
+    "pp_min": 492.0,
+    "pp_max": 665.6,
+    "pp_raw": "492-665.6",
+    "leistung": "Aufbauende Kammplastik Zuschlag für Hauttransplantation Sekundāre Deckung oroantrale Fistel"
+  },
+  {
+    "ziffer": "4.3940",
+    "uvmv_iv": 446.3,
+    "pp_min": 379.4,
+    "pp_max": 513.2,
+    "pp_raw": "379.4-513.2",
+    "leistung": "Entfernung Speichelstein intraoral"
+  },
+  {
+    "ziffer": "4.4000",
+    "uvmv_iv": 26.1,
+    "pp_min": 22.2,
+    "pp_max": 30.0,
+    "pp_raw": "22.2-30",
+    "leistung": "Indirekte Überkappung"
+  },
+  {
+    "ziffer": "4.4010",
+    "uvmv_iv": 24.0,
+    "pp_min": 29.7,
+    "pp_max": 40.1,
+    "pp_raw": "29.7-40.1",
+    "leistung": "Direkte Überkappung"
+  },
+  {
+    "ziffer": "4.4020",
+    "uvmv_iv": 73.2,
+    "pp_min": 62.2,
+    "pp_max": 84.2,
+    "pp_raw": "62.2-84.2",
+    "leistung": "Vitalamputation oder notfallmāssige Trepanation"
+  },
+  {
+    "ziffer": "4.4400",
+    "uvmv_iv": 181.3,
+    "pp_min": 154.1,
+    "pp_max": 208.5,
+    "pp_raw": "154.1-208.5",
+    "leistung": "Pulpaexstirpation, 1 Kanal"
+  },
+  {
+    "ziffer": "4.4410",
+    "uvmv_iv": 233.6,
+    "pp_min": 198.6,
+    "pp_max": 268.6,
+    "pp_raw": "198.6-268.6",
+    "leistung": "Pulpaexstirpation, 2 Kanāle"
+  },
+  {
+    "ziffer": "4.4420",
+    "uvmv_iv": 4.0,
+    "pp_min": 246.0,
+    "pp_max": 332.8,
+    "pp_raw": "246-332.8",
+    "leistung": "Pulpaexstirpation, 3 Kanāle"
+  },
+  {
+    "ziffer": "4.4430",
+    "uvmv_iv": 52.3,
+    "pp_min": 44.5,
+    "pp_max": 60.1,
+    "pp_raw": "44.5-60.1",
+    "leistung": "Pulpaexstirpation, weiterer Kanal Einlage, 1 Kanal, neue Endometrie"
+  },
+  {
+    "ziffer": "4.4500",
+    "uvmv_iv": 136.0,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.4505",
+    "uvmv_iv": 115.1,
+    "pp_min": 97.8,
+    "pp_max": 132.4,
+    "pp_raw": "97.8-132.4",
+    "leistung": "Einlage, 1 Kanal, vorhandene Endometrie"
+  },
+  {
+    "ziffer": "4.4510",
+    "uvmv_iv": 167.4,
+    "pp_min": 142.3,
+    "pp_max": 192.5,
+    "pp_raw": "142.3-192.5",
+    "leistung": "Einlage. 2K anäle, neue Endometrie"
+  },
+  {
+    "ziffer": "4.4515",
+    "uvmv_iv": 139.5,
+    "pp_min": 118.6,
+    "pp_max": 160.4,
+    "pp_raw": "118.6-160.4",
+    "leistung": "Einlage, 2 Kanāle, vorhandene Endometrie"
+  },
+  {
+    "ziffer": "4.4520",
+    "uvmv_iv": 174.3,
+    "pp_min": 174.8,
+    "pp_max": 236.6,
+    "pp_raw": "174.8-236.6",
+    "leistung": "Einlage, 3 Kanāle, neue Endometrie Einlage, 3 Kanäle, vorhandene Endometrie"
+  },
+  {
+    "ziffer": "4.4530",
+    "uvmv_iv": null,
+    "pp_min": 44.5,
+    "pp_max": 60.1,
+    "pp_raw": "44.5-60.1",
+    "leistung": "Einlage. jeder weitere Kanal, neue Endometrie"
+  },
+  {
+    "ziffer": "4.4535",
+    "uvmv_iv": null,
+    "pp_min": 44.5,
+    "pp_max": 60.1,
+    "pp_raw": "44.5-60.1",
+    "leistung": "Einlage, jeder weitere Kanal, vorhandene Endometrie"
+  },
+  {
+    "ziffer": "4.4550",
+    "uvmv_iv": 181.3,
+    "pp_min": 154.1,
+    "pp_max": 208.5,
+    "pp_raw": "154.1-208.5",
+    "leistung": "Wurzelfüllung, 1 Kanal, neue Endometrie"
+  },
+  {
+    "ziffer": "4.4555",
+    "uvmv_iv": 160.4,
+    "pp_min": 136.3,
+    "pp_max": 184.5,
+    "pp_raw": "136.3-184.5",
+    "leistung": "Wurzelfüllung, 1 Kanal, vorhandene Endometrie Wurzelfüllung, 2 Kanāle, neue Endometrie"
+  },
+  {
+    "ziffer": "4.4560",
+    "uvmv_iv": 1.0,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.4565",
+    "uvmv_iv": 198.7,
+    "pp_min": 168.9,
+    "pp_max": 228.5,
+    "pp_raw": "168.9-228.5",
+    "leistung": "Wurzelfüllung, 2 Kanāle, vorhandene Endometrie"
+  },
+  {
+    "ziffer": "4.4570",
+    "uvmv_iv": 278.9,
+    "pp_min": 237.1,
+    "pp_max": 320.7,
+    "pp_raw": "237.1-320.7",
+    "leistung": "Wurzelfüllung. 3 Kanale, neue Endometrie"
+  },
+  {
+    "ziffer": "4.4575",
+    "uvmv_iv": 247.5,
+    "pp_min": 210.4,
+    "pp_max": 284.6,
+    "pp_raw": "210.4-284.6",
+    "leistung": "Wurzelfüllung, 3 Kanāle, vorhandene Endometrie"
+  },
+  {
+    "ziffer": "4.4580",
+    "uvmv_iv": 52.3,
+    "pp_min": 44.5,
+    "pp_max": 60.1,
+    "pp_raw": "44.5-60.1",
+    "leistung": "Wurzelfüllung. jeder weitere Kanal, neue Endometrie"
+  },
+  {
+    "ziffer": "4.4585",
+    "uvmv_iv": 52.3,
+    "pp_min": 44.5,
+    "pp_max": 60.1,
+    "pp_raw": "44.5-60.1",
+    "leistung": "Wurzelfüllung, jeder weitere Kanal, vorhandene Endo metrie"
+  },
+  {
+    "ziffer": "4.4600",
+    "uvmv_iv": 265.0,
+    "pp_min": 225.3,
+    "pp_max": 304.8,
+    "pp_raw": "225.3-304.8",
+    "leistung": "WB 1 Sitzung, 1 Kanal"
+  },
+  {
+    "ziffer": "4.4610",
+    "uvmv_iv": 352.1,
+    "pp_min": 299.3,
+    "pp_max": 404.9,
+    "pp_raw": "299.3-404.9",
+    "leistung": "WB 1 Sitzung, 2 Kanāle"
+  },
+  {
+    "ziffer": "4.4620",
+    "uvmv_iv": 1.0,
+    "pp_min": 408.9,
+    "pp_max": 553.3,
+    "pp_raw": "408.9-553.3",
+    "leistung": "WB 1 Sitzung, 3 Kanāle"
+  },
+  {
+    "ziffer": "4.4630",
+    "uvmv_iv": 52.3,
+    "pp_min": 44.5,
+    "pp_max": 60.0,
+    "pp_raw": "44.5-60.",
+    "leistung": "1 WB 1 Sitzung, weiterer Kanal"
+  },
+  {
+    "ziffer": "4.4650",
+    "uvmv_iv": 36.6,
+    "pp_min": 31.1,
+    "pp_max": 42.1,
+    "pp_raw": "31.1-42.1",
+    "leistung": "WB-Revision, pro 5 Min."
+  },
+  {
+    "ziffer": "4.4660",
+    "uvmv_iv": 73.2,
+    "pp_min": 62.2,
+    "pp_max": 84.2,
+    "pp_raw": "62.2-84.2",
+    "leistung": "Apexifikation oder Perforationsverschluss"
+  },
+  {
+    "ziffer": "4.4700",
+    "uvmv_iv": 111.6,
+    "pp_min": 94.9,
+    "pp_max": 128.3,
+    "pp_raw": "94.9-128.3",
+    "leistung": "Bleichen devitaler Zahn"
+  },
+  {
+    "ziffer": "4.4710",
+    "uvmv_iv": 104.6,
+    "pp_min": 88.9,
+    "pp_max": 120.3,
+    "pp_raw": "88.9-120.3",
+    "leistung": "Homebleaching., pro Kiefer In Office Bleaching, pro 5 Min."
+  },
+  {
+    "ziffer": "4.4720",
+    "uvmv_iv": 36.6,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.4730",
+    "uvmv_iv": 41.8,
+    "pp_min": 35.5,
+    "pp_max": 48.1,
+    "pp_raw": "35.5-48.1",
+    "leistung": "Nachkontrolle Zahnbleichen"
+  },
+  {
+    "ziffer": "4.5000",
+    "uvmv_iv": 52.3,
+    "pp_min": 32.6,
+    "pp_max": null,
+    "pp_raw": "32.6",
+    "leistung": "44.2 Provisorische Füllung (Schnellverschluss) 44 Glasionomerzement, 1-f1."
+  },
+  {
+    "ziffer": "4.5020",
+    "uvmv_iv": 87.2,
+    "pp_min": 74.1,
+    "pp_max": 100.3,
+    "pp_raw": "74.1-100.3",
+    "leistung": "Glasionomerzement, 2-fl."
+  },
+  {
+    "ziffer": "4.5030",
+    "uvmv_iv": 837.0,
+    "pp_min": 103.7,
+    "pp_max": 140.3,
+    "pp_raw": "103.7-140.3",
+    "leistung": "Glasionomerzement, 3-fl. Amalgam, 1-f1. Weiteres Amalgam,"
+  },
+  {
+    "ziffer": "4.5060",
+    "uvmv_iv": 38.4,
+    "pp_min": null,
+    "pp_max": null,
+    "pp_raw": "",
+    "leistung": ""
+  },
+  {
+    "ziffer": "4.5090",
+    "uvmv_iv": 136.0,
+    "pp_min": 115.6,
+    "pp_max": 156.4,
+    "pp_raw": "115.6-156.4",
+    "leistung": "Amalgam, 2-f1."
+  },
+  {
+    "ziffer": "4.5100",
+    "uvmv_iv": 90.6,
+    "pp_min": 77.0,
+    "pp_max": 104.2,
+    "pp_raw": "77-104.2",
+    "leistung": "Weiteres Amalgam, 2-f1."
+  },
+  {
+    "ziffer": "4.5130",
+    "uvmv_iv": 184.8,
+    "pp_min": 157.1,
+    "pp_max": 212.5,
+    "pp_raw": "157.1-212.5",
+    "leistung": "Amalgam, 3-fl."
+  }
+]
